@@ -1,0 +1,16 @@
+/home/ricky/Documentos/curso-csharp/fundamentos/bin/Debug/net5.0/fundamentos
+/home/ricky/Documentos/curso-csharp/fundamentos/bin/Debug/net5.0/fundamentos.deps.json
+/home/ricky/Documentos/curso-csharp/fundamentos/bin/Debug/net5.0/fundamentos.runtimeconfig.json
+/home/ricky/Documentos/curso-csharp/fundamentos/bin/Debug/net5.0/fundamentos.runtimeconfig.dev.json
+/home/ricky/Documentos/curso-csharp/fundamentos/bin/Debug/net5.0/fundamentos.dll
+/home/ricky/Documentos/curso-csharp/fundamentos/bin/Debug/net5.0/ref/fundamentos.dll
+/home/ricky/Documentos/curso-csharp/fundamentos/bin/Debug/net5.0/fundamentos.pdb
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.csproj.AssemblyReference.cache
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.AssemblyInfoInputs.cache
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.AssemblyInfo.cs
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.csproj.CoreCompileInputs.cache
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.dll
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/ref/fundamentos.dll
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.pdb
+/home/ricky/Documentos/curso-csharp/fundamentos/obj/Debug/net5.0/fundamentos.genruntimeconfig.cache
