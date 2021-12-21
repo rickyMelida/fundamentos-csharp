@@ -23,7 +23,7 @@ namespace fundamentos.Models {
         lista.Add(9);
 
         foreach(int numero in lista) {
-            //Console.WriteLine(numero);
+            Console.WriteLine(numero);
         }
 
         List<Cerveza> cerveza = new List<Cerveza>{ new Cerveza(10) };
@@ -32,7 +32,7 @@ namespace fundamentos.Models {
         cerveza.Add(corona);
 
         foreach(var cer in cerveza) {
-            Console.WriteLine(cer.Nombre);
+            //Console.WriteLine(cer.Nombre);
         }
     }
 

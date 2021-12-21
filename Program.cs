@@ -3,6 +3,11 @@ using fundamentos.Models;
 
 namespace fundamentos
 {
+    public enum DayOfWeek {
+      Lunes = 0,
+      Martes = 1,
+      Miercoles = 2
+    }
     class Program
     {
         static void Main(string[] args)
@@ -16,10 +21,10 @@ namespace fundamentos
             Console.WriteLine(cerveza.Cantidad);*/
 
             /*ArreglosYListas arr = new ArreglosYListas();
-            arr.listas();*/
+            arr.listas();
 
             int[] a = { 0,1,2,3 };
-            Funciones miFuncion = new Funciones();
+            Funciones miFuncion = new Funciones();*/
             /*miFuncion.PasoDeParametros(a);*/
 
             int[] b = { 0,1,2,3 };
@@ -36,8 +41,18 @@ namespace fundamentos
             Persona p = new Persona("Ricardo");
             //Console.WriteLine(p);
 
-            var bebidaAlcoholica = new Vino(100);
-            MostrarRecomendacion(bebidaAlcoholica);
+            /*var bebidaAlcoholica = new Vino(100);
+            MostrarRecomendacion(bebidaAlcoholica);*/
+
+
+
+            //DayOfWeek day = new DayOfWeek.Lunes;
+            //Console.WriteLine(day);
+            Diccionarios myDictionary = new Diccionarios();
+            //myDictionary.Main();
+
+            StructAndEnum myEnum = new StructAndEnum();
+            myEnum.Main();
 
         }
 
